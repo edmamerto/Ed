@@ -26,7 +26,7 @@ kramdown:
 
 # Setup
 title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+tagline:             'Edgar Mamerto'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 https://github.com/minicomp/ed
 baseurl:             '/ed'

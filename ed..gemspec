@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alex Gil"]
   spec.email         = ["colibri.alex@gmail.com"]
 
-  spec.summary       = "A Jekyll theme for minimal editions"
+  spec.summary       = "Edgar Mamerto"
   spec.homepage      = "http://minicomp.github.io/ed/"
   spec.license       = "MIT"
 
