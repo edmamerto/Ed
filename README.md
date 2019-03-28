@@ -1,7 +1,7 @@
 # Ed
 > Just playing with Jekyll
 
-[ed_ss.png](ed_ss.png)
+![ed_ss.png](ed_ss.png)
 
 ##  Install dependencies
 ```sh
