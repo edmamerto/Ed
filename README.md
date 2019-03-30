@@ -37,4 +37,4 @@ $ bundle exec jekyll serve
 ```
 ## DNS settings
 [www.namecheap.com](www.namecheap.com)
-![namecheap_settings.png](name_cheap.png)
+![namecheap_settings.png](namecheap_settings.png)
