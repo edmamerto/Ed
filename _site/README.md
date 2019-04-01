@@ -35,6 +35,14 @@ $ bundle install
 ```sh
 $ bundle exec jekyll serve
 ```
+
+## Edit content
+Your production pulls files from `_site` so when you edit `index.html` make sure your app is running because this updates contents in `_site`
+```
+# while you edit index.html run
+$ bundle exec jekyll serve
+```
+
 ## DNS settings
 [www.namecheap.com](www.namecheap.com)
 ![namecheap_settings.png](namecheap_settings.png)
